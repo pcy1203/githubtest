@@ -1,2 +1,2 @@
-print('Hello world!')
+print('Hella world!')
 print('안녕')
